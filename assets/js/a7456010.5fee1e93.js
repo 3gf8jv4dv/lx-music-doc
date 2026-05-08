@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklx_music_doc=globalThis.webpackChunklx_music_doc||[]).push([["3056"],{8552(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
